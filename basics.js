@@ -14,7 +14,7 @@
     //best to declare variables on separate lines 
 //LET AND CONST
     // const interestRate = 0.3;
-    // let interestRate=1;
+    // let interestRate= 1;
 
     //use let if you need to reassign a variable
     //use const if you do not need to reassign a variable
@@ -28,8 +28,8 @@
 //NEW in ES6 is Symbols
 
 //LANGUAGES
-//Dynamic =  let name = 'John
-//Static = string name = 'John
+//Dynamic =  let name = 'John'
+//Static = string name = 'John'
 
 //REFERENCE TYPES - Objects, Arrays, and Function**************
 //#1 OBJECTS -----------------------------
@@ -100,7 +100,7 @@
 // console.log(x % y);
 // console.log(x ** y);
 
-// Incrememnt (++) It matters if it's before (11) or after (10---11)
+// Increment (++) It matters if it's before (11) or after (10---11)
 // console.log(++x);
 
 // Decrement (--)
@@ -239,7 +239,7 @@
 
 // let c = a; //now c equal red
 // a = b; //now a can be reassigned to b which is blue
-// b = c; //now reassigned to c which is red
+// b = c; //now b is reassigned to c which is red
 
 // console.log(a);
 // console.log(b);
